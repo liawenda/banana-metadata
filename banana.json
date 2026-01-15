@@ -1,0 +1,25 @@
+{
+  "name": "BANANA",
+  "symbol": "BNN",
+  "description": "BANANA (BNN) is a fixed-supply SPL token on Solana Mainnet with no mint and no freeze authority.",
+  "image": "https://USERNAME.github.io/banana-metadata/banana.png",
+  "external_url": "https://banana.io",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "links": {
+      "website": "https://banana.io",
+      "twitter": "https://twitter.com/banana",
+      "telegram": "https://t.me/banana"
+    }
+  }
+}
